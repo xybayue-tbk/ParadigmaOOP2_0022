@@ -40,3 +40,9 @@ public:
         cout << "budi dibuat dengan umur " << umur << endl;
     }
 };
+
+int main() {
+    budi a(20);
+    
+    return 0;
+}
